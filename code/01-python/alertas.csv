@@ -1,0 +1,6 @@
+id,severidad,tecnica,host
+1,alta,T1059.001,PC-RRHH-02
+2,media,T1053.005,SRV-FILE-01
+3,critica,T1003.001,SRV-DC-01
+4,baja,T1105,PC-RRHH-02
+5,alta,T1059.001,PC-CONTA-01
